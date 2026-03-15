@@ -1,0 +1,58 @@
+,Contract,InternetService,TechSupport,tenure_group,total_customers,churned_customers,avg_monthly_charges,churn_rate_pct
+0,Month-to-month,DSL,No,0-12 months,530,240,45.81,45.3
+1,Month-to-month,DSL,No,13-24 months,160,42,49.68,26.3
+2,Month-to-month,DSL,No,25-48 months,144,26,50.91,18.1
+3,Month-to-month,DSL,No,49+ months,50,9,48.55,18.0
+4,Month-to-month,DSL,Yes,0-12 months,160,53,54.74,33.1
+5,Month-to-month,DSL,Yes,13-24 months,72,13,59.35,18.1
+6,Month-to-month,DSL,Yes,25-48 months,83,10,59.04,12.0
+7,Month-to-month,DSL,Yes,49+ months,24,1,62.43,4.2
+8,Month-to-month,Fiber optic,No,0-12 months,833,592,81.19,71.1
+9,Month-to-month,Fiber optic,No,13-24 months,353,185,86.28,52.4
+10,Month-to-month,Fiber optic,No,25-48 months,405,186,89.58,45.9
+11,Month-to-month,Fiber optic,No,49+ months,205,70,93.57,34.1
+12,Month-to-month,Fiber optic,Yes,0-12 months,83,51,91.0,61.4
+13,Month-to-month,Fiber optic,Yes,13-24 months,72,30,93.74,41.7
+14,Month-to-month,Fiber optic,Yes,25-48 months,116,40,97.05,34.5
+15,Month-to-month,Fiber optic,Yes,49+ months,61,8,99.58,13.1
+16,Month-to-month,No,No internet service,0-12 months,388,88,20.27,22.7
+17,Month-to-month,No,No internet service,13-24 months,80,8,20.68,10.0
+18,Month-to-month,No,No internet service,25-48 months,54,2,21.06,3.7
+19,Month-to-month,No,No internet service,49+ months,2,1,19.7,50.0
+20,One year,DSL,No,0-12 months,19,5,51.61,26.3
+21,One year,DSL,No,13-24 months,40,7,58.81,17.5
+22,One year,DSL,No,25-48 months,102,5,57.26,4.9
+23,One year,DSL,No,49+ months,83,7,58.44,8.4
+24,One year,DSL,Yes,0-12 months,23,2,54.9,8.7
+25,One year,DSL,Yes,13-24 months,39,4,62.63,10.3
+26,One year,DSL,Yes,25-48 months,139,17,63.83,12.2
+27,One year,DSL,Yes,49+ months,125,6,67.15,4.8
+28,One year,Fiber optic,No,0-12 months,6,1,93.28,16.7
+29,One year,Fiber optic,No,13-24 months,10,0,89.71,0.0
+30,One year,Fiber optic,No,25-48 months,93,18,94.2,19.4
+31,One year,Fiber optic,No,49+ months,204,39,97.79,19.1
+32,One year,Fiber optic,Yes,0-12 months,1,1,105.65,100.0
+33,One year,Fiber optic,Yes,13-24 months,13,4,93.5,30.8
+34,One year,Fiber optic,Yes,25-48 months,61,13,98.85,21.3
+35,One year,Fiber optic,Yes,49+ months,151,28,104.14,18.5
+36,One year,No,No internet service,0-12 months,75,4,20.4,5.3
+37,One year,No,No internet service,13-24 months,95,1,20.35,1.1
+38,One year,No,No internet service,25-48 months,123,2,21.05,1.6
+39,One year,No,No internet service,49+ months,71,2,21.49,2.8
+40,Two year,DSL,No,0-12 months,2,0,59.7,0.0
+41,Two year,DSL,No,13-24 months,5,0,61.48,0.0
+42,Two year,DSL,No,25-48 months,16,0,60.01,0.0
+43,Two year,DSL,No,49+ months,92,4,64.94,4.3
+44,Two year,DSL,Yes,0-12 months,16,0,57.98,0.0
+45,Two year,DSL,Yes,13-24 months,20,0,56.61,0.0
+46,Two year,DSL,Yes,25-48 months,63,1,66.4,1.6
+47,Two year,DSL,Yes,49+ months,414,7,74.03,1.7
+48,Two year,Fiber optic,No,13-24 months,1,0,96.55,0.0
+49,Two year,Fiber optic,No,25-48 months,5,1,101.95,20.0
+50,Two year,Fiber optic,No,49+ months,115,9,98.67,7.8
+51,Two year,Fiber optic,Yes,25-48 months,30,2,101.92,6.7
+52,Two year,Fiber optic,Yes,49+ months,278,19,107.38,6.8
+53,Two year,No,No internet service,0-12 months,50,0,21.15,0.0
+54,Two year,No,No internet service,13-24 months,64,0,21.43,0.0
+55,Two year,No,No internet service,25-48 months,160,2,21.16,1.3
+56,Two year,No,No internet service,49+ months,364,3,22.2,0.8
